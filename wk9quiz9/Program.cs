@@ -22,7 +22,7 @@ namespace wk9quiz9
             Console.WriteLine("What is your favorite color?");
             string userFavoriteColor = Console.ReadLine();
 
-           Console.WriteLine("Hello,"+ userName+ userLastName + "!" + "You are" +  userAge + "years old and your favorite color is" + userFavoriteColor);
+           Console.WriteLine("Hello," + userName + userLastName + "!" + "You are" +  userAge + "years old and your favorite color is" + userFavoriteColor);
         }
     }
 }
